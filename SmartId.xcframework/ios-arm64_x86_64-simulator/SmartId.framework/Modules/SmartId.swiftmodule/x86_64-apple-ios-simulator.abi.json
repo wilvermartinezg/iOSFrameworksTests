@@ -3975,43 +3975,57 @@
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/CertificateChainService.swift",
+      "kind": "StringLiteral",
+      "offset": 467,
+      "length": 37,
+      "value": "\"https:\/\/\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/CertificateChainService.swift",
+      "kind": "StringLiteral",
+      "offset": 503,
+      "length": 9,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/CertificateChainService.swift",
       "kind": "Array",
-      "offset": 1266,
+      "offset": 1279,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/CertificateChainService.swift",
       "kind": "IntegerLiteral",
-      "offset": 1315,
+      "offset": 1328,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/CertificateChainService.swift",
       "kind": "Dictionary",
-      "offset": 1476,
+      "offset": 1489,
       "length": 3,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/CertificateChainService.swift",
       "kind": "StringLiteral",
-      "offset": 1541,
+      "offset": 1554,
       "length": 8,
       "value": "\"issuer\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/CertificateChainService.swift",
       "kind": "StringLiteral",
-      "offset": 1840,
+      "offset": 1853,
       "length": 8,
       "value": "\"serial\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Service\/CertificateChainService.swift",
       "kind": "StringLiteral",
-      "offset": 2076,
+      "offset": 2089,
       "length": 9,
       "value": "\"subject\""
     },

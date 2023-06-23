@@ -4725,35 +4725,35 @@
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 1495,
+      "offset": 1551,
       "length": 10,
       "value": "\"hashUUID\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 1629,
+      "offset": 1685,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 1811,
+      "offset": 1867,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 2818,
+      "offset": 2991,
       "length": 47,
       "value": "\"LOCATION ERROR: \""
     },
     {
       "filePath": "\/Users\/wmartinez\/work\/devel\/smartid\/DSAnalytics.iOSSDK\/SmartId\/Controller\/SmartId.swift",
       "kind": "StringLiteral",
-      "offset": 2864,
+      "offset": 3037,
       "length": 2,
       "value": "\"\""
     },
